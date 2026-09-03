@@ -146,18 +146,4 @@ certkey = /home/gns3/.config/GNS3/ssl/server.key
 api_port = 3000
 
 [Qemu]
-enable_kvm = false
-
-👥 Autores
-
-    Marcos André Silva Feitosa
-
-    Gustavo Santos Novais
-
-Instituto Federal de Brasília (IFB) — Campus Brasília
-
-Curso Superior de Tecnologia em Sistemas para Internet (TSI)
-
-Orientador: Me. Diógenes Ferreira Reis Fustinoni
-
-Ano: 2026
+enable_kvm = true
